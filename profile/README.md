@@ -13,7 +13,7 @@ Em resumo, um sistema de controle de pedidos é essencial para garantir que a la
 ## Tabela de conteúdos
 
 - [Tech Challenge - Software Architecture](#tech-challenge-software-architecture)
-  - [O Problema](#o-problema) 
+  - [O Problema](#o-problema)
   - [Event Storm](#event-storm)
     - [Fase 1](#fase-1)
     - [Fase 2](#fase-2)
@@ -43,7 +43,7 @@ Para obter uma visão detalhada do Event Storm aplicado a este projeto, incluind
 
 [Clique aqui para ver no draw.io](https://drive.google.com/file/d/125nhmEe8Vd6zaZj_OnBLJ8eRhIvvUyDZ/view?usp=sharing)↗️
 
-![Diagrama de Arquitetura](./docs/diagrama-infra.drawio.png)
+![Diagrama de Arquitetura](../docs/diagrama-infra.drawio.png)
 _Clique na imagem para ampliar._
 
 ## Estrutura de Pastas
@@ -364,10 +364,10 @@ Após iniciar os contêineres, o Swagger estará acessível em [http://localhost
 
 ## Membros
 
-| Nome | RM | E-mail | GitHub |
-| --- | --- | --- | --- |
-| Jhoni Farias | **RM357358** | [jhonifarias.developer@gmail.com](jhonifarias.developer@gmail.com) | [@JhoniFarias](https://github.com/JhoniFarias) |
-| Josef Henrique Zambreti | **RM357836** | [josefhenrique@uol.com.br](josefhenrique@uol.com.br) | [@Josefhz](https://github.com/Josefhz) |
-| Lucas Rodrigues Medina Costa | **RM357360** | [lucasmedinarmc@gmail.com](lucasmedinarmc@gmail.com) | [@diname](https://github.com/diname) |
-| Kleber de Oliveira Andrade | **RM358012** | [pdjkleber@gmail.com](pdjkleber@gmail.com) | [@kleberandrade](https://github.com/kleberandrade) |
-| Vitória Camila Xavier Sobrinho | **RM357235** | [vcamilaxs@gmail.com](vcamilaxs@gmail.com) | [@itsvickie](https://github.com/itsvickie) |
+| Nome                           | RM           | E-mail                                                             | GitHub                                             |
+| ------------------------------ | ------------ | ------------------------------------------------------------------ | -------------------------------------------------- |
+| Jhoni Farias                   | **RM357358** | [jhonifarias.developer@gmail.com](jhonifarias.developer@gmail.com) | [@JhoniFarias](https://github.com/JhoniFarias)     |
+| Josef Henrique Zambreti        | **RM357836** | [josefhenrique@uol.com.br](josefhenrique@uol.com.br)               | [@Josefhz](https://github.com/Josefhz)             |
+| Lucas Rodrigues Medina Costa   | **RM357360** | [lucasmedinarmc@gmail.com](lucasmedinarmc@gmail.com)               | [@diname](https://github.com/diname)               |
+| Kleber de Oliveira Andrade     | **RM358012** | [pdjkleber@gmail.com](pdjkleber@gmail.com)                         | [@kleberandrade](https://github.com/kleberandrade) |
+| Vitória Camila Xavier Sobrinho | **RM357235** | [vcamilaxs@gmail.com](vcamilaxs@gmail.com)                         | [@itsvickie](https://github.com/itsvickie)         |
