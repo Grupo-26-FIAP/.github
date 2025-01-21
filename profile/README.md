@@ -360,7 +360,7 @@ Após iniciar os contêineres, o Swagger estará acessível em [http://localhost
 
 > ⚠️ **Atenção**
 >
-> [Instruções de fluxo](https://github.com/diname/tech-challenge-fiap/wiki/Fluxo-de-teste)
+> [Instruções de fluxo](../docs/fluxo_teste.md)
 
 ## Membros
 
