@@ -26,7 +26,7 @@ Em resumo, um sistema de controle de pedidos é essencial para garantir que a la
   - [Documentação do Banco de Dados](#documentação-do-banco-de-dados)
   - [Diagrama do Banco de Dados](#diagrama-do-banco-de-dados)
   - [Detalhes Adicionais](#detalhes-adicionais)
-  - [Decisão de Arquitetura do Banco de dados](<a href="https://github.com/Grupo-26-FIAP/.github/wiki/Decis%C3%A3o-de-Arquitetura-do-Banco-de-dados" target="_blank"></a>)
+  - [Decisão de Arquitetura do Banco de dados](https://github.com/Grupo-26-FIAP/.github/wiki/Decis%C3%A3o-de-Arquitetura-do-Banco-de-dados)
   - [Como Executar o Projeto](#como-executar-o-projeto)
   - [Membros](#membros)
 
