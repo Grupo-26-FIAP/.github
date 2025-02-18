@@ -42,10 +42,9 @@ Para obter uma visão detalhada do Event Storm aplicado a este projeto, incluind
 
 ## Arquitetura
 
-[Clique aqui para ver no draw.io](https://drive.google.com/file/d/125nhmEe8Vd6zaZj_OnBLJ8eRhIvvUyDZ/view?usp=sharing)↗️
+![Diagrama de Arquitetura](../docs/new-diagrama-infra.drawio.png)
 
-![Diagrama de Arquitetura](../docs/diagrama-infra.drawio.png)
-_Clique na imagem para ampliar._
+![Diagrama da comunicação dos Microsserviços](../docs/diagrama_comunicacao.png)
 
 ## Estrutura de Pastas
 
