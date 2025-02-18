@@ -15,10 +15,10 @@ Em resumo, um sistema de controle de pedidos é essencial para garantir que a la
 - [Tech Challenge - Software Architecture](#tech-challenge-software-architecture)
   - [O Problema](#o-problema)
   - [Event Storm](#event-storm)
-    - [Fase 1](#fase-1)
-    - [Fase 2](#fase-2)
-    - [Fase 3](#fase-3)
-    - [Fase 4](#fase-4)
+    - [📄 Fase 1](../docs/Fase%201.pdf)
+    - [📄 Fase 2](../docs/Fase%202.pdf)
+    - [📄 Fase 3](../docs/Fase%203.pdf)
+    - [📄 Fase 4](../docs/Fase%204.pdf)
   - [Arquitetura](#arquitetura)
   - [Estrutura de Pastas](#estrutura-de-pastas)
   - [Descrição das Pastas e Arquivos](#descrição-das-pastas-e-arquivos)
@@ -152,8 +152,6 @@ graph TD
     class Infrastructure infra;
 
 ```
-
-
 
 ## Como Executar o Projeto
 
